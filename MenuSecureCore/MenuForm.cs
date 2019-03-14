@@ -47,6 +47,8 @@ namespace MenuSecureCore
             }
         }
         private void Actualizar() {
+
+
             acclevel = ConfigurationManager.AppSettings["AccesLevel"].ToString();
             this.Username = ConfigurationManager.AppSettings["UserName"].ToString();
             this.IconUser = ConfigurationManager.AppSettings["Icon"].ToString();
