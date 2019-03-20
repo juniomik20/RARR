@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{437E6F67-10D6-41F2-9A80-534658AC55A9}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>RARR</RootNamespace>
     <AssemblyName>RARR</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
