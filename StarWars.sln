@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantillaPrincipalStarWars"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RARR", "RARR\RARR.csproj", "{437E6F67-10D6-41F2-9A80-534658AC55A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionEntityClass", "ConnectionEntityClass\ConnectionEntityClass.csproj", "{2CD507B5-0946-47D6-804A-C7BBF07766E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{437E6F67-10D6-41F2-9A80-534658AC55A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437E6F67-10D6-41F2-9A80-534658AC55A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{437E6F67-10D6-41F2-9A80-534658AC55A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD507B5-0946-47D6-804A-C7BBF07766E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD507B5-0946-47D6-804A-C7BBF07766E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD507B5-0946-47D6-804A-C7BBF07766E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD507B5-0946-47D6-804A-C7BBF07766E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
